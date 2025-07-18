@@ -36,12 +36,6 @@ Projeye katkı sağlamak istersen, pull request gönder veya issue aç. Her tür
 
 ---
 
-## Lisans
-
-MIT © [Adınız]
-
----
-
 ### İletişim
 
 Discord: [https://discord.gg/CMUahVy8pd]  
