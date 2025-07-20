@@ -12,7 +12,7 @@
 ## Kurulum & Yayınlama
 
 1. Dosyaları indir veya klonla:  
-   `git clone https://github.com/kullaniciadi/mybot-site.git`
+   `git clone https://github.com/AlevNet/discord-botsite-altyapisi`
 
 2. İstersen doğrudan GitHub Pages üzerinden yayınla:  
    Repo ayarlarından **Pages** sekmesine gir ve `main` branch'i seç.
